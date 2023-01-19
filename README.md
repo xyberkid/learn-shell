@@ -5,7 +5,7 @@ This project is designed to help beginners learn the basics of the Linux command
 To start using this project, you will need to have a Linux or macOS operating system and an internet connection to download the files.
 You can clone the repository using the following
 
-git clone https://github.com/yourusername/learning-shell.git
+git clone https://github.com/xyberkid/learn-shell.git
 
 Alternatively, you can download the files as a zip archive from the GitHub website.
 

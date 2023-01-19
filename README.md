@@ -28,5 +28,3 @@ We welcome contributions and feedback on this project. If you find any errors or
 
 #Acknowledgments
 This project was inspired by the Software Carpentry Shell lesson. We also used a lot of material from the Unix and Linux Command Line.
-
-Note

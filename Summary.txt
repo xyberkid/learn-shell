@@ -1,5 +1,4 @@
 Summary
-
 Linux file navigation and directories are a set of commands and concepts that are used to manage and organize files and folders on a Linux operating system. These include:
 
 The file system is organized into a hierarchy of directories, with the top-level directory being '/'.
